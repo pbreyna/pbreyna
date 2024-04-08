@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I´am Paola👋
 
-Profesional en Data Sciences y Machine Learning, con experiencia en investigación y gestión de herramientas de gestión de proyectos y tareas. 
+Professional in Data Science and Machine Learning, with experience in research and management of project and task management tools
 
 <!--
 **pbreyna/pbreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
