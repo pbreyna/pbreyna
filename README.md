@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Profesional en Data Sciences y Machine Learning, con experiencia en investigación y gestión de herramientas de gestión de proyectos y tareas. 
+
 <!--
 **pbreyna/pbreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
