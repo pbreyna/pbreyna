@@ -1,6 +1,6 @@
 ### Hi there, I´am Paola👋
 
-Professional in Data Science and Machine Learning, with experience in research and management of project and task management tools
+🔍 Professional in Data Science and Machine Learning, with experience in research and management of project and task management tools
 
 📊 Skilled in Python and R for data analysis, statistical modelling, and machine learning algorithms.
 
